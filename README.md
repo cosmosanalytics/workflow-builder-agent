@@ -20,7 +20,7 @@ A pure frontend, zero-build web application that performs autonomous browser nav
   - **TaskFlow SaaS Dashboard**: Sprint backlog, task creation bar, priority tagging, and completion toggles.
   - **GlobalAir Flight Booking**: Route selection, passenger counts, cabin class, and seat reservation.
   - **Enterprise 1-Click Bookmarklet (Zero Extension Required)**: Uses native `BroadcastChannel` to automate ANY live external website (Wikipedia, Amazon, Jira, internal portals) without installing browser extensions or requiring IT approval.
-  - **Interactive Examples & Recipes Gallery**: 8 pre-built executable scenarios across E-Commerce, SaaS sprint management, and flight booking.
+  - **Interactive Examples & Recipes Gallery**: 9 pre-built executable scenarios across E-Commerce, SaaS sprint management, flight booking, and **Autonomous Eval & Red-Teaming (adversarial edge case fuzzing against deterministic assertions)**.
 
 ---
 
