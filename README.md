@@ -19,7 +19,8 @@ A pure frontend, zero-build web application that performs autonomous browser nav
   - **NovaMart E-Commerce**: Product cards, search bar, live slide-out shopping cart drawer, and checkout.
   - **TaskFlow SaaS Dashboard**: Sprint backlog, task creation bar, priority tagging, and completion toggles.
   - **GlobalAir Flight Booking**: Route selection, passenger counts, cabin class, and seat reservation.
-  - **Real Browser Tab Bridge**: Uses `BroadcastChannel('agent_nav_channel')` to control live external websites via a one-line Chrome DevTools snippet.
+  - **Enterprise 1-Click Bookmarklet (Zero Extension Required)**: Uses native `BroadcastChannel` to automate ANY live external website (Wikipedia, Amazon, Jira, internal portals) without installing browser extensions or requiring IT approval.
+  - **Interactive Examples & Recipes Gallery**: 8 pre-built executable scenarios across E-Commerce, SaaS sprint management, and flight booking.
 
 ---
 
