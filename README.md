@@ -1,6 +1,20 @@
-# Autonomous Browser Control AI 🌐🤖
+# Autonomous Browser Control AI & Top 5 Agent Architectures 🌐🤖
 
-A pure frontend, zero-build web application that performs autonomous browser navigation and control using natural language directives powered by **WebLLM (WebGPU)** and **Groq LPUs**.
+A pure frontend, zero-build suite of client-side web applications demonstrating autonomous agent architectures powered by **WebLLM (WebGPU)** and **Groq LPUs**.
+
+---
+
+## 🏛️ Top 5 Reusable Agent Architecture Apps
+
+Rather than building 30 disconnected chatbots, this suite prioritizes reusable agent architectures:
+
+| Rank | Architecture | Live App | Why It's Interesting |
+|:---:|:---|:---|:---|
+| **1** | **Self-Improving Agent** | [`self_improving_agent.html`](self_improving_agent.html) | Tests whether agents can autonomously improve their own problem-solving via recursive trajectory reflection and heuristic mutation. |
+| **2** | **Autonomous Knowledge Engineer** | [`autonomous_knowledge_engineer.html`](autonomous_knowledge_engineer.html) | Combines ontology, causal knowledge graphs (+/- loops), and multi-hop symbolic path traversal reasoning. |
+| **3** | **Autonomous Software Company** | [`autonomous_software_company.html`](autonomous_software_company.html) | Tests complex 6-role multi-agent coordination (PM, Architect, Engineer, QA, Security, DevOps). |
+| **4** | **Digital Twin Experiment Agent** | [`digital_twin_experiment_agent.html`](digital_twin_experiment_agent.html) | Connects reasoning models with numerical physics/system simulators to run Monte Carlo parameter sweeps before live actuation. |
+| **5** | **Human Intelligence Exoskeleton** | [`human_intelligence_exoskeleton.html`](human_intelligence_exoskeleton.html) | Explores human-AI cognitive symbiosis: captures intentions, externalizes working memory, challenges assumptions, and compiles plans. |
 
 ---
 
